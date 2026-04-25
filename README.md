@@ -17,9 +17,7 @@
 - CompTIA Project+ <br>
 - CompTIA CySA+ <br>
 - CompTIA PenTest+ <br>
-- CompTIA Stackable Certifications - CIOS, CSAP, CSIS, CNVP, CNSP <br>pTIA A+ <br>
-- CompTIA Network+ <br>
-- CompTIA Security+ <br>
+- CompTIA Stackable Certifications - CIOS, CSAP, CSIS, CNVP, CNSP <br>
 
 <h2> Current Languages:</h2>
 - English <br>
