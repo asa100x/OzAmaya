@@ -8,7 +8,7 @@
 <h2> Certifications: </h2>
 
 - Google IT Support Professional <br>
-- ITIL 4 Foundation <br>
+- ITIL 4 Foundations <br>
 - LPI Linux Essentials <br>
 - ISC2 SSCP - Associate <br>
 - CompTIA A+ <br>
