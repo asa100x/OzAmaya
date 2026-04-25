@@ -8,8 +8,16 @@
 <h2> Certifications: </h2>
 
 - Google IT Support Professional <br>
-- ITIL 4 <br>
+- ITIL 4 Foundation <br>
+- LPI Linux Essentials <br>
+- ISC2 SSCP - Associate <br>
 - CompTIA A+ <br>
+- CompTIA Network+ <br>
+- CompTIA Security+ <br>
+- CompTIA Project+ <br>
+- CompTIA CySA+ <br>
+- CompTIA PenTest+ <br>
+- CompTIA Stackable Certifications - CIOS, CSAP, CSIS, CNVP, CNSP <br>pTIA A+ <br>
 - CompTIA Network+ <br>
 - CompTIA Security+ <br>
 
